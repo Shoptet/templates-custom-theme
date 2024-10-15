@@ -1,3 +1,6 @@
+> [!CAUTION]
+> Building templates this way is outdated and could lead to errors
+
 # Custom theme for [Shoptet](https://www.shoptet.cz/) templates
 
 When the **blank mode** is enabled, no CSS neither JavaScript files are served by [Shoptet](https://www.shoptet.cz/) servers.
